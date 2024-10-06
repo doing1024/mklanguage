@@ -1,0 +1,4 @@
+compileCommand = "clang++ {{{inputFile}}} -o {{{noExtInputFile}}}"
+fileExt = ".cncpp"
+compileExt = ".cpp"
+translateFile = "translate.json"
